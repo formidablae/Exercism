@@ -1,0 +1,23 @@
+{
+  "blurb": "Create an implementation of the Affine cipher, an ancient encryption algorithm from the Middle East.",
+  "authors": [
+    "camilopayan"
+  ],
+  "contributors": [
+    "arueckauer",
+    "neenjaw"
+  ],
+  "files": {
+    "solution": [
+      "AffineCipher.php"
+    ],
+    "test": [
+      "AffineCipherTest.php"
+    ],
+    "example": [
+      ".meta/example.php"
+    ]
+  },
+  "source": "Wikipedia",
+  "source_url": "http://en.wikipedia.org/wiki/Affine_cipher"
+}

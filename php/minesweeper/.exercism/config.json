@@ -1,0 +1,23 @@
+{
+  "blurb": "Add the numbers to a minesweeper board",
+  "authors": [
+    "petemcfarlane"
+  ],
+  "contributors": [
+    "arueckauer",
+    "kunicmarko20",
+    "kytrinyx",
+    "neenjaw"
+  ],
+  "files": {
+    "solution": [
+      "Minesweeper.php"
+    ],
+    "test": [
+      "MinesweeperTest.php"
+    ],
+    "example": [
+      ".meta/example.php"
+    ]
+  }
+}

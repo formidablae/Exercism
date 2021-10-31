@@ -1,0 +1,22 @@
+{
+  "blurb": "Create a sentence of the form \"One for X, one for me.\"",
+  "authors": [
+    "rossbearman"
+  ],
+  "contributors": [
+    "arueckauer",
+    "neenjaw"
+  ],
+  "files": {
+    "solution": [
+      "TwoFer.php"
+    ],
+    "test": [
+      "TwoFerTest.php"
+    ],
+    "example": [
+      ".meta/example.php"
+    ]
+  },
+  "source_url": "https://github.com/exercism/problem-specifications/issues/757"
+}

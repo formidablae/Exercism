@@ -1,0 +1,10 @@
+{
+  "authors": ["codedge"],
+  "contributors": ["neenjaw"],
+  "files": {
+    "solution": ["MaskCreditCard.php"],
+    "test": ["MaskCreditCardTest.php"],
+    "example": [".meta/example.php"]
+  },
+  "blurb": "Create a function to mask digits of a credit card number."
+}

@@ -1,0 +1,25 @@
+{
+  "blurb": "Make sure the brackets and braces all match.",
+  "authors": [
+    "petemcfarlane"
+  ],
+  "contributors": [
+    "amscotti",
+    "arueckauer",
+    "kunicmarko20",
+    "kytrinyx",
+    "neenjaw"
+  ],
+  "files": {
+    "solution": [
+      "MatchingBrackets.php"
+    ],
+    "test": [
+      "MatchingBracketsTest.php"
+    ],
+    "example": [
+      ".meta/example.php"
+    ]
+  },
+  "source": "Ginna Baker"
+}

@@ -1,0 +1,21 @@
+{
+  "blurb": "Convert numbers to ordinal numerals.",
+  "authors": [
+    "codedge"
+  ],
+  "contributors": [
+    "neenjaw"
+  ],
+  "files": {
+    "solution": [
+      "OrdinalNumber.php"
+    ],
+    "test": [
+      "OrdinalNumberTest.php"
+    ],
+    "example": [
+      ".meta/example.php"
+    ]
+  },
+  "source_url": "https://en.wikipedia.org/wiki/Ordinal_numeral"
+}
