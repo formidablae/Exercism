@@ -1,0 +1,26 @@
+{
+  "blurb": "Reparent a graph on a selected node",
+  "authors": [
+    "cmccandless"
+  ],
+  "contributors": [
+    "crsmi",
+    "Dog",
+    "N-Parsons",
+    "tqa236",
+    "yawpitch"
+  ],
+  "files": {
+    "solution": [
+      "pov.py"
+    ],
+    "test": [
+      "pov_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "source": "Adaptation of exercise from 4clojure",
+  "source_url": "https://www.4clojure.com/"
+}

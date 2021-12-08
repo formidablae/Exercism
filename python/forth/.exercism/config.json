@@ -1,0 +1,27 @@
+{
+  "blurb": "Implement an evaluator for a very simple subset of Forth",
+  "authors": [
+    "cmccandless"
+  ],
+  "contributors": [
+    "Dog",
+    "dvermd",
+    "ikhadykin",
+    "N-Parsons",
+    "omer-g",
+    "parthsharma2",
+    "tqa236",
+    "yawpitch"
+  ],
+  "files": {
+    "solution": [
+      "forth.py"
+    ],
+    "test": [
+      "forth_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "blurb": "Manage a player's High Score list",
+  "authors": [
+    "behrtam"
+  ],
+  "contributors": [
+    "BethanyG",
+    "cmccandless",
+    "Dog",
+    "gabriel376",
+    "GascaK",
+    "simmol",
+    "tqa236",
+    "yawpitch"
+  ],
+  "files": {
+    "solution": [
+      "high_scores.py"
+    ],
+    "test": [
+      "high_scores_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "source": "Tribute to the eighties' arcade game Frogger"
+}

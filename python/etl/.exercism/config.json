@@ -1,0 +1,33 @@
+{
+  "blurb": "We are going to do the `Transform` step of an Extract-Transform-Load.",
+  "authors": [],
+  "contributors": [
+    "alirezaghey",
+    "behrtam",
+    "cmccandless",
+    "Dog",
+    "etrepum",
+    "ikhadykin",
+    "kytrinyx",
+    "lowks",
+    "Mofeywalker",
+    "N-Parsons",
+    "pheanex",
+    "sjakobi",
+    "tqa236",
+    "yawpitch"
+  ],
+  "files": {
+    "solution": [
+      "etl.py"
+    ],
+    "test": [
+      "etl_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "source": "The Jumpstart Lab team",
+  "source_url": "http://jumpstartlab.com"
+}

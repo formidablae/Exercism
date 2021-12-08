@@ -1,0 +1,32 @@
+{
+  "blurb": "Given a diagram, determine which plants each child in the kindergarten class is responsible for.",
+  "authors": [
+    "sjakobi"
+  ],
+  "contributors": [
+    "behrtam",
+    "cmccandless",
+    "Dog",
+    "ikhadykin",
+    "Mofeywalker",
+    "N-Parsons",
+    "pheanex",
+    "smalley",
+    "thomasjpfan",
+    "tqa236",
+    "yawpitch"
+  ],
+  "files": {
+    "solution": [
+      "kindergarten_garden.py"
+    ],
+    "test": [
+      "kindergarten_garden_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "source": "Random musings during airplane trip.",
+  "source_url": "http://jumpstartlab.com"
+}
