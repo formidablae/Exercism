@@ -1,0 +1,27 @@
+{
+  "blurb": "Count the rectangles in an ASCII diagram.",
+  "authors": [],
+  "contributors": [
+    "aboutroots",
+    "behrtam",
+    "BethanyG",
+    "cmccandless",
+    "Dog",
+    "dvermd",
+    "ikhadykin",
+    "N-Parsons",
+    "pheanex",
+    "tqa236"
+  ],
+  "files": {
+    "solution": [
+      "rectangles.py"
+    ],
+    "test": [
+      "rectangles_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  }
+}

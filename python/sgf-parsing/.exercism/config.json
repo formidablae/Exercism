@@ -1,0 +1,26 @@
+{
+  "blurb": "Parsing a Smart Game Format string.",
+  "authors": [
+    "cmccandless"
+  ],
+  "contributors": [
+    "BethanyG",
+    "crsmi",
+    "Dog",
+    "elyashiv",
+    "thomasjpfan",
+    "tqa236",
+    "yawpitch"
+  ],
+  "files": {
+    "solution": [
+      "sgf_parsing.py"
+    ],
+    "test": [
+      "sgf_parsing_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  }
+}
