@@ -1,0 +1,33 @@
+{
+  "blurb": "Create an implementation of the atbash cipher, an ancient encryption system created in the Middle East.",
+  "authors": [
+    "betegelse"
+  ],
+  "contributors": [
+    "behrtam",
+    "cmccandless",
+    "Dog",
+    "ikhadykin",
+    "jgomo3",
+    "kytrinyx",
+    "N-Parsons",
+    "parinporecha",
+    "pheanex",
+    "sjakobi",
+    "thomasjpfan",
+    "tqa236"
+  ],
+  "files": {
+    "solution": [
+      "atbash_cipher.py"
+    ],
+    "test": [
+      "atbash_cipher_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "source": "Wikipedia",
+  "source_url": "http://en.wikipedia.org/wiki/Atbash"
+}

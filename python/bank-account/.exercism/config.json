@@ -1,0 +1,20 @@
+{
+  "blurb": "Simulate a bank account supporting opening/closing, withdraws, and deposits of money. Watch out for concurrent transactions!",
+  "authors": [],
+  "contributors": [
+    "cmccandless",
+    "Dog",
+    "tqa236"
+  ],
+  "files": {
+    "solution": [
+      "bank_account.py"
+    ],
+    "test": [
+      "bank_account_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  }
+}
