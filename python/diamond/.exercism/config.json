@@ -1,0 +1,30 @@
+{
+  "blurb": "Given a letter, print a diamond starting with 'A' with the supplied letter at the widest point.",
+  "authors": [
+    "behrtam"
+  ],
+  "contributors": [
+    "BethanyG",
+    "cmccandless",
+    "Dog",
+    "ikhadykin",
+    "lucasdpau",
+    "N-Parsons",
+    "pheanex",
+    "rjsabatini",
+    "tqa236"
+  ],
+  "files": {
+    "solution": [
+      "diamond.py"
+    ],
+    "test": [
+      "diamond_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "source": "Seb Rose",
+  "source_url": "http://claysnow.co.uk/recycling-tests-in-tdd/"
+}
