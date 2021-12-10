@@ -1,0 +1,1 @@
+fun hello () = "Goodbye, Mars!"

@@ -1,0 +1,23 @@
+{
+  "blurb": "The classical introductory exercise. Just say \"Hello, World!\"",
+  "authors": [
+    "m-dango"
+  ],
+  "contributors": [
+    "kotp",
+    "rfilipo"
+  ],
+  "files": {
+    "solution": [
+      "HelloWorld.pm"
+    ],
+    "test": [
+      "hello-world.t"
+    ],
+    "example": [
+      ".meta/solutions/HelloWorld.pm"
+    ]
+  },
+  "source": "This is an exercise to introduce users to using Exercism",
+  "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}

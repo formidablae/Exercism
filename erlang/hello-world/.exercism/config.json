@@ -1,0 +1,30 @@
+{
+  "blurb": "The classical introductory exercise. Just say \"Hello, World!\"",
+  "authors": [
+    "barberj"
+  ],
+  "contributors": [
+    "duffn",
+    "ErikSchierboom",
+    "iHiD",
+    "JordanAdams",
+    "juhlig",
+    "kytrinyx",
+    "NobbZ",
+    "tmcgilchrist",
+    "xymbol"
+  ],
+  "files": {
+    "solution": [
+      "src/hello_world.erl"
+    ],
+    "test": [
+      "test/hello_world_tests.erl"
+    ],
+    "example": [
+      ".meta/example.erl"
+    ]
+  },
+  "source": "This is an exercise to introduce users to using Exercism",
+  "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}

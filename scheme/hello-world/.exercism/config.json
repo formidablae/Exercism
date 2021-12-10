@@ -1,0 +1,28 @@
+{
+  "blurb": "The classical introductory exercise. Just say \"Hello, World!\"",
+  "authors": [
+    "canweriotnow"
+  ],
+  "contributors": [
+    "benreyn",
+    "cyborgsphinx",
+    "guygastineau",
+    "herwinw",
+    "jitwit",
+    "kytrinyx",
+    "skeskali"
+  ],
+  "files": {
+    "solution": [
+      "hello-world.scm"
+    ],
+    "test": [
+      "test.scm"
+    ],
+    "example": [
+      ".meta/example.scm"
+    ]
+  },
+  "source": "This is an exercise to introduce users to using Exercism",
+  "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}
