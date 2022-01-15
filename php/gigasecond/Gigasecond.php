@@ -26,5 +26,5 @@ declare(strict_types=1);
 
 function from(DateTimeImmutable $date): DateTimeImmutable
 {
-    throw new \BadFunctionCallException("Implement the from function");
+    return $date->add(new DateInterval('PT1000000000S'));
 }
