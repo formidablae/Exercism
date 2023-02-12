@@ -1,0 +1,43 @@
+{
+  "authors": [
+    "stkent"
+  ],
+  "contributors": [
+    "aadityakulkarni",
+    "c-thornton",
+    "FridaTveit",
+    "hgvanpariya",
+    "jackattack24",
+    "javaeeeee",
+    "jmrunkle",
+    "jtigger",
+    "kytrinyx",
+    "lemoncurry",
+    "mirkoperillo",
+    "morrme",
+    "msomji",
+    "muzimuzhi",
+    "PatrM",
+    "redshirt4",
+    "sjwarner-bp",
+    "SleeplessByte",
+    "Smarticles101",
+    "sonapraneeth-a",
+    "sshine",
+    "vivshaw",
+    "Zaldrick"
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/BracketChecker.java"
+    ],
+    "test": [
+      "src/test/java/BracketCheckerTest.java"
+    ],
+    "example": [
+      ".meta/src/reference/java/BracketChecker.java"
+    ]
+  },
+  "blurb": "Make sure the brackets and braces all match.",
+  "source": "Ginna Baker"
+}
