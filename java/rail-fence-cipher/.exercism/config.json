@@ -1,0 +1,31 @@
+{
+  "authors": [
+    "LeonDsouza"
+  ],
+  "contributors": [
+    "FridaTveit",
+    "hgvanpariya",
+    "jmrunkle",
+    "lemoncurry",
+    "mirkoperillo",
+    "msomji",
+    "muzimuzhi",
+    "sjwarner-bp",
+    "SleeplessByte",
+    "sshine"
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/RailFenceCipher.java"
+    ],
+    "test": [
+      "src/test/java/RailFenceCipherTest.java"
+    ],
+    "example": [
+      ".meta/src/reference/java/RailFenceCipher.java"
+    ]
+  },
+  "blurb": "Implement encoding and decoding for the rail fence cipher.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Transposition_cipher#Rail_Fence_cipher"
+}

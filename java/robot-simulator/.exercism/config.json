@@ -1,0 +1,44 @@
+{
+  "authors": [
+    "stkent"
+  ],
+  "contributors": [
+    "aadityakulkarni",
+    "FridaTveit",
+    "hgvanpariya",
+    "javaeeeee",
+    "jmrunkle",
+    "jtigger",
+    "Kyle-Pu",
+    "kytrinyx",
+    "lemoncurry",
+    "matthewstyler",
+    "mirkoperillo",
+    "morrme",
+    "msomji",
+    "muzimuzhi",
+    "redshirt4",
+    "SleeplessByte",
+    "Smarticles101",
+    "sshine",
+    "vivshaw",
+    "Zaldrick"
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/Robot.java"
+    ],
+    "test": [
+      "src/test/java/RobotTest.java"
+    ],
+    "example": [
+      ".meta/src/reference/java/Robot.java"
+    ],
+    "editor": [
+      "src/main/java/GridPosition.java",
+      "src/main/java/Orientation.java"
+    ]
+  },
+  "blurb": "Write a robot simulator.",
+  "source": "Inspired by an interview question at a famous company."
+}
