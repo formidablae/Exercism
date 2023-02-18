@@ -1,0 +1,20 @@
+{
+  "authors": [
+    "ystromm"
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/SqueakyClean.java"
+    ],
+    "test": [
+      "src/test/java/SqueakyCleanTest.java"
+    ],
+    "exemplar": [
+      ".meta/src/reference/java/SqueakyClean.java"
+    ]
+  },
+  "forked_from": [
+    "csharp/squeaky-clean"
+  ],
+  "blurb": "Learn about characters and StringBuilder by cleaning strings."
+}
