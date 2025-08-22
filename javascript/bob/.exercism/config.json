@@ -1,0 +1,38 @@
+{
+  "authors": [
+    "rchavarria"
+  ],
+  "contributors": [
+    "amscotti",
+    "austinratcliff",
+    "brendan-c",
+    "draalger",
+    "hayashi-ay",
+    "kytrinyx",
+    "matthewmorgan",
+    "ryanplusplus",
+    "serixscorpio",
+    "SleeplessByte",
+    "xarxziux"
+  ],
+  "files": {
+    "solution": [
+      "bob.js"
+    ],
+    "test": [
+      "bob.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
+  },
+  "blurb": "Bob is a lackadaisical teenager. In conversation, his responses are very limited.",
+  "source": "Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial.",
+  "source_url": "https://pine.fm/LearnToProgram/?Chapter=06",
+  "custom": {
+    "version.tests.compatibility": "jest-27",
+    "flag.tests.task-per-describe": false,
+    "flag.tests.may-run-long": false,
+    "flag.tests.includes-optional": false
+  }
+}

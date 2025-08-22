@@ -1,0 +1,36 @@
+{
+  "authors": [
+    "rchavarria"
+  ],
+  "contributors": [
+    "amscotti",
+    "ankorGH",
+    "brendan-c",
+    "DagmarTimmreck",
+    "matthewmorgan",
+    "ryanplusplus",
+    "serixscorpio",
+    "SleeplessByte",
+    "xarxziux"
+  ],
+  "files": {
+    "solution": [
+      "matrix.js"
+    ],
+    "test": [
+      "matrix.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
+  },
+  "blurb": "Given a string representing a matrix of numbers, return the rows and columns of that matrix.",
+  "source": "Exercise by the JumpstartLab team for students at The Turing School of Software and Design.",
+  "source_url": "https://turing.edu",
+  "custom": {
+    "version.tests.compatibility": "jest-27",
+    "flag.tests.task-per-describe": false,
+    "flag.tests.may-run-long": false,
+    "flag.tests.includes-optional": false
+  }
+}
