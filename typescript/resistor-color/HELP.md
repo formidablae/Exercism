@@ -2,18 +2,23 @@
 
 ## Running the tests
 
+Before trying to execute the tests, ensure the assignment folder is set-up correctly by following the installation steps, namely `corepack yarn install` and the Editor SDK setup.
+
 Execute the tests with:
 
 ```bash
-$ yarn test
+$ corepack yarn test
 ```
 
 ## Skipped tests
 
 In the test suites all tests but the first have been skipped.
 
-Once you get a test passing, you can enable the next one by changing `xit` to
-`it`.
+Once you get a test passing, you can enable the next one by changing `xit` to `it`.
+Additionally tests may be grouped using `xdescribe`.
+Enable the group by changing that to `describe`.
+Finally, some exercises may have optional tests `it.skip`.
+Remove `.skip` to execute the optional test.
 
 ## Submitting your solution
 
@@ -30,7 +35,8 @@ It's possible to submit an incomplete solution which allows you to:
 If you'd like help solving the exercise, check the following pages:
 
 - The [TypeScript track's documentation](https://exercism.org/docs/tracks/typescript)
-- [Exercism's support channel on gitter](https://gitter.im/exercism/support)
+- The [TypeScript track's programming category on the forum](https://forum.exercism.org/c/programming/typescript)
+- [Exercism's programming category on the forum](https://forum.exercism.org/c/programming/5)
 - The [Frequently Asked Questions](https://exercism.org/docs/using/faqs)
 
 Should those resources not suffice, you could submit your (incomplete) solution to request mentoring.
